@@ -10,8 +10,9 @@ public class DemoEmployee {
 		e1.setName("Khushi");
 		e1.setEmail("khushi123@gmail.com");
 		System.out.println(e1.getName() +" "+e1.getEmail() );
+
+		//BUFFER:-
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		
 		System.out.println("Enter your name");
 		String Name = br.readLine();
 		
