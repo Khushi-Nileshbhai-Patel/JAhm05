@@ -3,6 +3,7 @@ import java.util.Scanner;
 import java.io.BufferedReader;
 public class DemoEmployee {
 	public static void main(String[] arg) {
+	try{
 		Employee e2 = new Employee();
 		System.out.println(e2);
 		
@@ -23,7 +24,9 @@ public class DemoEmployee {
 		String Name = sc.next();
 		System.out.println("Enter Your Email:-");
 		String Email = sc.next();
-		
+	}
+		catch(Exception e){
+		}
 	}
 }
  
