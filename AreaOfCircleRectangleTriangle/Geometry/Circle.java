@@ -1,4 +1,4 @@
-package Geometry;
+package AreaOfCircleRectangleTriangle.Geometry;
 public class Circle {
 	  
 		private int redius;
