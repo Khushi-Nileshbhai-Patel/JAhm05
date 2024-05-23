@@ -1,4 +1,4 @@
-package Geometry;
+package AreaOfCircleRectangleTriangle.Geometry;
 
 public class Rectangle {
 	 	private int width;
