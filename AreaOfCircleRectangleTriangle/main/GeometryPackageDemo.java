@@ -1,7 +1,7 @@
 package main;
-import Geometry.Circle;
-import Geometry.Rectangle;
-import Geometry.Triangle;
+import AreaOfCircleRectangleTriangle.Geometry.Circle;
+import AreaOfCircleRectangleTriangle.Geometry.Rectangle;
+import AreaOfCircleRectangleTriangle.Geometry.Triangle;
 
 public class GeometryPackageDemo {
 	public static void main(String[] args) {
