@@ -8,6 +8,14 @@ public class Employee {
 		name = "Default";
 		email = "Default";
 	}
+	
+	
+	public Employee(String name, String email) {
+		this.name = name;
+		this.email = email;
+	}
+
+
 	public String getName() {
 		return name;
 	}
